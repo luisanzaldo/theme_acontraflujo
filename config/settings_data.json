@@ -284,7 +284,7 @@
           "border": "#acacac",
           "shadow": "rgba(0,0,0,0)",
           "primary_button_background": "#d3cec517",
-          "primary_button_text": "#d3cec517",
+          "primary_button_text": "#000000",
           "primary_button_border": "#ffffff",
           "primary_button_hover_background": "#000000",
           "primary_button_hover_text": "#ffffff",
