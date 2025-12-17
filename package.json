@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "shopify theme dev --store acontraflujo.myshopify.com"
+  },
+  "dependencies": {
+    "astro": "^5.16.6"
+  }
+}
